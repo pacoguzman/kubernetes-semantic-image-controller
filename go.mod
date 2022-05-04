@@ -1,4 +1,4 @@
-module gitlab.com/rawkode/kubernetes-semantic-version
+module github.com/pacoguzman/kubernetes-semantic-image-controller
 
 go 1.15
 

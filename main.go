@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"gitlab.com/rawkode/kubernetes-semantic-version/pkg/controller"
+	"github.com/pacoguzman/kubernetes-semantic-image-controller/pkg/controller"
 )
 
 func main() {
